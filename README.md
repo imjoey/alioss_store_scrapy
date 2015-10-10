@@ -4,7 +4,7 @@ Add Aliyun-OSS file storage support in Scrapy, like S3FilesStore.
 
 # Prerequisite
 
-Install Aliyun OSS python sdk into you python envs, go to [official]() to download
+Install Aliyun OSS python sdk into you python envs, go to [official](https://docs.aliyun.com/?spm=5176.100057.3.4.NNu7cf#/pub/oss/sdk/sdk-download&python) to download
 
 # How to use
 
